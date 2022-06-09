@@ -3,5 +3,5 @@ export default interface ITrack {
     id: number;
     title: string;
     url: string;
-    thumnaiUrl: string;
+    thumbnailUrl: string;
 }
